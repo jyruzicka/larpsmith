@@ -39,10 +39,10 @@ Once we have the core functionality of Larpsmith working, I would be interested 
 
 ## To do
 
-[ ] Build basic framework (as a gem).
-[ ] Create the `lsm` binary.
-[ ] Build the `lsm create` command.
-[ ] Build the `lsm render` command.
-  [ ] Build the capability to load includes.
-  [ ] Build the capability to load + parse character files.
-  [ ] Build something to turn markdown into PDF (via the gem `prawn`).
+* Build basic framework (as a gem).
+* Create the `lsm` binary.
+* Build the `lsm create` command.
+* Build the `lsm render` command.
+  * Build the capability to load includes.
+  * Build the capability to load + parse character files.
+  * Build something to turn markdown into PDF (via the gem `prawn`).
